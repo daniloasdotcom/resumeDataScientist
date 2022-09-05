@@ -80,7 +80,7 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
+- 👩‍💻 Programming: Python, Dart, Flutter
 - 📊 Data Visulization: MS Excel, Rbase, ggplot2
 - 📚 Modeling: Linear regression, Non-linear-regression
 """
